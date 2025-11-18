@@ -1,0 +1,21 @@
+age,income,loan_amount,credit_history_length,remarks,default
+25,45000,8000,2,Customer new to credit,N
+32,62000,15000,6,Stable salary history,N
+41,54000,22000,8,Irregular payment behavior,Y
+29,38000,9000,3,Short credit history,N
+51,88000,27000,12,High-value customer,N
+47,46000,19000,4,Missed EMI twice,Y
+36,73000,31000,10,Clean record,N
+28,52000,14000,3,Hard inquiries found,Y
+59,91000,33000,13,Strong profile,N
+34,41000,13000,4,Occasional delays,Y
+26,37000,7000,1,No prior loans,N
+45,78000,26000,9,Good standing,N
+52,64000,15000,11,One missed EMI last year,N
+39,58000,20000,7,Moderate risk,Y
+30,60000,18000,5,Excellent repayment,N
+48,81000,35000,10,High-limit card user,N
+33,49000,17000,3,High utilization,Y
+44,72000,23000,8,Good history,N
+27,36000,8000,2,New borrower,N
+56,85000,32000,14,Very strong profile,N
